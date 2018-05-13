@@ -1,7 +1,10 @@
-import System.io.*;
-import System.util.*;
+import java.io.*;
+import java.util.*;
 
-public static void main(String args [])
+public class JavaTest1
 {
-	System.out.println("Just a standard Java program");
+	public static void main(String args [])
+	{
+		System.out.println("Just a standard Java program");
+	}
 }
